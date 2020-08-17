@@ -18,22 +18,21 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2020 - 30 July, 2020
+Week: 09 August, 2020 - 16 August, 2020
 
 💬 编程语言: 
-Java              17 hrs 40 mins      ████████████░░░░░░░░░░░░░   50.74% 
-Markdown          7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.04% 
-Python            6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67% 
-JSON              1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
-HTML              47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+Python            3 hrs 1 min         ███████████████░░░░░░░░░░   59.97% 
+Markdown          56 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.62% 
+Other             51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
+TOML              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
+Git Config        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 🔥 常用编辑器: 
-IntelliJ          24 hrs 7 mins       █████████████████░░░░░░░░   69.24% 
-VS Code           9 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   26.33% 
-PyCharm           1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
+PyCharm           4 hrs 27 mins       ██████████████████████░░░   88.31% 
+VS Code           35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69%
 
 💻 操作系统: 
-Windows           34 hrs 50 mins      █████████████████████████   100.0%
+Windows           5 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -45,6 +44,7 @@ Windows           34 hrs 50 mins      ██████████████
 ## 红红火火恍恍惚惚
 
 <img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/2020729.jpg" width="230">
+<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
 <details>
 <summary>GitHub统计信息</summary>
@@ -56,38 +56,28 @@ Windows           34 hrs 50 mins      ██████████████
 > 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
 
 <a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eternidad33&theme=synthwave" />
-</a>
-<a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true" />
 </a>
 <br/>
 
-#### 近期更新的仓库
+---
+
+*近期更新的仓库*
 
 <a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=eternidad33" />
 </a>    
 <a href="https://gitee.com/eternidad33/leetcode">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xy221&repo=leetcode&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eternidad33&repo=leetcode" />
 </a>
-</details>
-<details>
-<summary>梦想中的考研分数</summary>
 
 <br/>
 
-|  科目  | 分数 |
-| :----: | :--: |
-|  政治  | 100  |
-|  英语  | 100  |
-|  数学  | 150  |
-| 专业课 | 150  |
-|  总分  | 500  |
+<br/>
 
-:alien: 哈哈，果然是在做梦
+[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/eternidad33.gif)](https://github4life.herokuapp.com/eternidad33)
+
 </details>
-
 
 **🙏考研上岸**
 
